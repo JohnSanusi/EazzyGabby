@@ -3,8 +3,7 @@
 A sleek, responsive portfolio and booking website for a freelance photographer. Built with Vue 3 and Tailwind CSS.
 
 ## Live Site
-
-👉 [View Project Live](eazzygabby.vercel.app)
+(eazzygabby.vercel.app)
 
 ## Features
 
