@@ -1,29 +1,18 @@
-# EAZZYGABBY
+# Photographer Booking Site
 
-This template should help get you started developing with Vue 3 in Vite.
+A sleek, responsive portfolio and booking website for a freelance photographer. Built with Vue 3 and Tailwind CSS.
 
-## Recommended IDE Setup
+## Live Site
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+👉 [View Project Live](eazzygabby.vercel.app)
 
-## Customize configuration
+## Features
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Clean modern UI with responsive layout
+- Dynamic booking form ready for backend integration
+- Scalable structure for future updates
 
-## Project Setup
+## Tech Stack
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+- Vue 3 + Vite
+- Tailwind CSS
