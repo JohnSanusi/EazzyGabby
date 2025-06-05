@@ -4,9 +4,9 @@ import { AutoScroll } from "@splidejs/splide-extension-auto-scroll";
 
 const images = [
   "/img-2.jpeg",
-  "/public/img-3.jpeg",
-  "/public/img-5.jpg",
-  "/public/img-8.jpeg",
+  "/img-3.jpeg",
+  "/img-5.jpg",
+  "/img-8.jpeg",
 ];
 </script>
 <template>

@@ -1,12 +1,12 @@
 <script setup>
 import { RouterLink } from "vue-router";
 const images = [
-  "../../public/img-20.jpeg",
-  "../../public/img-4.jpeg",
-  "../../public/img-9.jpeg",
-  "../../public/img-17.jpg",
-  "../../public/img-25.jpeg",
-  "../../public/img-26.jpeg",
+  "/img-20.jpeg",
+  "/img-4.jpeg",
+  "/img-9.jpeg",
+  "/img-17.jpg",
+  "/img-25.jpeg",
+  "/img-26.jpeg",
 ];
 </script>
 <template>
